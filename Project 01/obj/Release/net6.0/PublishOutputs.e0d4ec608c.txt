@@ -1,0 +1,7 @@
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\Project 01.exe
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\Project 01.dll
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\Project 01.deps.json
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\Project 01.runtimeconfig.json
+C:\Users\Ammar\Dotnet Projects\Project 1\Project 01\Project 01\obj\Release\net6.0\PubTmp\Out\Project 01.pdb
